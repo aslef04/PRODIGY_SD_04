@@ -4,7 +4,7 @@
 
 This is a python-based Sudoku Solver that uses the **backtracking algorithm** to solve 9x9 Sudoku puzzles efficiently. The algorithm fills empty cells in the puzzle by testing valid numbers, backtracking when a conflict arises.
 
-## Features⭐
+## Features ⭐
 🔷 Solves any valid 9x9 Sudoku puzzle.
 
 🔷 Implemented using the backtracking algorithm.
