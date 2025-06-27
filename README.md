@@ -12,4 +12,4 @@
 #### 🔷 Easy to understand. 
   
 ## How It Works 🛠️
-##### The program checks the puzzle row by row, trying to place numbers (1-9) in empty cells. If a conflict is found, it backtracks to the previous cell and tries a different number. This continues until the puzzle is solved or no solution exists.
+#### The program checks the puzzle row by row, trying to place numbers (1-9) in empty cells. If a conflict is found, it backtracks to the previous cell and tries a different number. This continues until the puzzle is solved or no solution exists.
